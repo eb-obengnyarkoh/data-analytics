@@ -2,7 +2,7 @@
 
 A central portfolio repository showcasing projects in data analytics, business intelligence, machine learning, and data engineering.
 
-## 💰 Procurement & Spend Analytics
+## 💰 [Procurement & Spend Analytics](https://github.com/eb-obengnyarkoh/procurement-spend-analytics)
 - Procurement Spend Analytics
 - Supplier Performance Dashboard
 
