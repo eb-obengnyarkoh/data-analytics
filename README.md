@@ -2,6 +2,10 @@
 
 A central portfolio repository showcasing projects in data analytics, business intelligence, machine learning, and data engineering.
 
+## [Interactive R Shiny dashboard](https://knyarkoh.shinyapps.io/firearms/)
+- Exploring Global Civilian Firearm Ownership and correlation analysis with military population metrics
+- Dynamic Visualizations
+
 ## 💰 [Procurement & Spend Analytics](https://github.com/eb-obengnyarkoh/procurement-spend-analytics)
 - Procurement Spend Analytics
 - Supplier Performance Dashboard
