@@ -2,7 +2,11 @@
 
 A central portfolio repository showcasing projects in data analytics, business intelligence, machine learning, and data engineering.
 
-## [Interactive R Shiny dashboard](https://knyarkoh.shinyapps.io/firearms/)
+## 💬 [Text Analytics](https://github.com/eb-obengnyarkoh/RShiny-text-analytics)
+- R Shiny Dashboard Analyzing WhatsApp Conversations
+- Insights from Contributor, Wordclouds, Sentiment Analysis, and Engagement Trends.
+
+## 🔫 [Interactive R Shiny dashboard](https://github.com/eb-obengnyarkoh/RShiny-firearms)
 - Exploring Global Civilian Firearm Ownership and correlation analysis with military population metrics
 - Dynamic Visualizations
 
