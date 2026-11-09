@@ -11,6 +11,7 @@ A central portfolio repository showcasing projects in data analytics, business i
 - Dynamic Visualizations
 
 ## 💰 [Procurement & Spend Analytics](https://github.com/eb-obengnyarkoh/procurement-spend-analytics)
+- Synthetic Procurement Data Generator
 - Procurement Spend Analytics
 - Supplier Performance Dashboard
 
